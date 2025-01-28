@@ -1,3 +1,29 @@
 # Project Proposal
 
-Delete the contents of this file and replace with your project proposal, as described in the [instructions](./instructions.md)
+# Title
+
+## What and Why
+
+**Title** is
+
+---
+
+## For Whom
+
+---
+
+## How
+
+---
+
+## Scope
+
+---
+
+## Team Members
+
+- **[Tahsin Tawhid](https://github.com/tahsintawhid)**
+- **[Brian Tylo](https://github.com/brian105)**
+- **[James Whitten](https://github.com/jwhit0)** 
+
+---
