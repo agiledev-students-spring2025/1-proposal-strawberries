@@ -56,6 +56,8 @@ We would like to use ML to do:
 2. **Dynamic Quest Generation**: Natural language processing can analyze recent news and events to create relevant new location-based quests dynamically.
 3. **Difficulty Adjustment**: The player's skill level can be predicted through reinforcement learning to adjust quest difficulty accordingly.
 
+---
+
 ## Team Members
 
 - **[Tahsin Tawhid](https://github.com/tahsintawhid)**
