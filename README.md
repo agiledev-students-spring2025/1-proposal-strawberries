@@ -41,12 +41,20 @@ From a user's perspective:
 ## Scope  
 
 We are planning to include:  
-- A database of manually curated quests.  
-- User authentication and profile tracking.  
-- A leaderboard system for friendly competition.  
-- Interactive maps with real-time quest progress.  
+- A database of manually curated quests 
+- User authentication and profile tracking  
+- A leaderboard system for friendly competition 
+- Interactive maps with real-time quest progress
 
 Future versions could expand to include user-generated quests and social features.
+
+## ML Integration
+
+We would like to use ML to do:
+
+1. **Personalized Quests**: Use collaborative filtering to suggest quests based on past preferences and locations the player may frequent.
+2. **Dynamic Quest Generation**: Natural language processing can analyze recent news and events to create relevant new location-based quests dynamically.
+3. **Difficulty Adjustment**: The player's skill level can be predicted through reinforcement learning to adjust quest difficulty accordingly.
 
 ## Team Members
 
